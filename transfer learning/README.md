@@ -11,7 +11,6 @@ The goal of this project is to build and train an image classification model cap
 
 - [Installation](#installation)
 - [Dataset](#dataset)
-- [Training](#training)
 - [Results](#results)
 
 ## Installation
