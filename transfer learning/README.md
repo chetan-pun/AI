@@ -10,13 +10,9 @@ The goal of this project is to build and train an image classification model cap
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
 - [Training](#training)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
