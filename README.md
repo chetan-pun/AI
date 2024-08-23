@@ -8,8 +8,6 @@ Welcome to the **AI** repository, a collection of projects and experiments in ar
 - [Sub-Projects](#sub-projects)
   - [Transfer Learning](#transfer-learning)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -40,3 +38,7 @@ To get started with the projects in this repository, follow these steps:
    ```bash
    git clone https://github.com/yourusername/AI.git
    cd AI
+2. **Installation**:
+
+   ```bash
+   pip install requirements.txt
