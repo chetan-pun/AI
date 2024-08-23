@@ -20,7 +20,7 @@ To set up the project, you need to have Python installed along with the required
 
 ```bash
 pip install tensorflow numpy matplotlib
-
+```
 ## Dataset
 
 The dataset used for this project is the [Dogs vs. Cats dataset](https://www.kaggle.com/c/dogs-vs-cats) from Kaggle. 
