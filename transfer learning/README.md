@@ -49,11 +49,9 @@ The dataset used for this project is the [Dogs vs. Cats dataset](https://www.kag
 The model's performance was evaluated using accuracy metrics for both feature extraction and fine-tuning approaches. Below are the results:
 
 ### Feature Extraction
-- **Training Accuracy**: 90%
-- **Validation Accuracy**: 90%
+- **Accuracy**: 89.96%
 
 ### Fine-Tuning
-- **Training Accuracy**: 92%
-- **Validation Accuracy**: 92%
+- **Accuracy**: 90.36%
 
 These results indicate that fine-tuning the VGG16 model provided a significant improvement in classification accuracy compared to using feature extraction alone.
