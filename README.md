@@ -6,7 +6,7 @@ Welcome to the **AI** repository, a collection of projects and experiments in ar
 
 - [Overview](#overview)
 - [Sub-Projects](#sub-projects)
-  - [Transfer Learning](#transfer learning)
+  - [Transfer Learning](#transfer&nbsp;learning)
 - [Getting Started](#getting-started)
 
 ## Overview
